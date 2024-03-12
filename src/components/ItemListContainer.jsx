@@ -1,3 +1,3 @@
 export const ItemListContainer = (props) => {
-  return <div>{props.greetings}</div>;
+  return <div className="ITC">{props.greetings}</div>;
 };
